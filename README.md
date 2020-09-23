@@ -1,5 +1,5 @@
 # black-sea# Домашнее задание к уроку 6
-
+https://cherkasivan.github.io/black-sea/
 ### Верстаем макет.
 
 ***
