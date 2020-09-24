@@ -99,7 +99,7 @@
 .promo {
   display: flex;
   justify-content: center;
-  background: url('img/promo_black_sea-bg.png') center no-repeat;
+  background-image: url('img/promo_black_sea-bg.png') center no-repeat;
 }
 
 .promo .container {
@@ -201,15 +201,15 @@
 }
 
 .main-icon:nth-child(1) {
-  background: url('img/paper-box-icon.png') center no-repeat;
+  background-image: url('img/paper-box-icon.png') center no-repeat;
 }
 
 .main-icon:nth-child(2) {
-  background: url('img/earthglobe-icon.png') center no-repeat;
+  background-image: url('img/earthglobe-icon.png') center no-repeat;
 }
 
 .main-icon:nth-child(3) {
-  background: url('img/papercase-icon.png') center no-repeat;
+  background-image: url('img/papercase-icon.png') center no-repeat;
 }
 
 /* MAIN */
@@ -271,7 +271,7 @@
 /* CONTACT */
 .contact {
 
-  background: url('img/contact_map-bg.png') center no-repeat;
+  background-image: url('img/contact_map-bg.png') center no-repeat;
 }
 
 .contact .container {
