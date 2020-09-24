@@ -99,7 +99,7 @@
 .promo {
   display: flex;
   justify-content: center;
-  background-image: url('img/promo_black_sea-bg.png') center no-repeat;
+  background-image: url(../img/promo_black_sea-bg.png) center no-repeat;
 }
 
 .promo .container {
